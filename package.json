@@ -1,0 +1,50 @@
+{
+  "name": "@fawazahmed/js-infinite-median",
+  "version": "0.0.0",
+  "description": "A simple react native library to show large blocks of text in a condensed manner with the ability to collapse and expand.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fawaz-ahmed/js-infinite-median.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "median",
+    "running median",
+    "infinite median",
+    "stream of numbers",
+    "javascript",
+    "typescript",
+    "library",
+    "tool",
+    "math",
+    "crypto",
+    "price calculations",
+    "volatile price"
+  ],
+  "author": {
+    "name": "Fawaz Ahmed",
+    "email": "fawaz_ahmed@live.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fawaz-ahmed/js-infinite-median/issues"
+  },
+  "homepage": "https://github.com/fawaz-ahmed/js-infinite-median#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "peerDependencies": {
+    "@datastructures-js/heap": "^4.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
