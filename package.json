@@ -1,7 +1,7 @@
 {
   "name": "@fawazahmed/js-infinite-median",
-  "version": "0.0.0",
-  "description": "A simple react native library to show large blocks of text in a condensed manner with the ability to collapse and expand.",
+  "version": "0.0.1",
+  "description": "Calculate median of a stream of numbers using heap sort (with nlogn comlpexity).",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
